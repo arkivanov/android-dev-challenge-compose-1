@@ -9,5 +9,14 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">Puppy For You!</string>
+
+    <string name="error_search">Could not start search</string>
+    <string name="error_making_call">Error making a call: %1$s</string>
+    <string name="breed">Breed</string>
+    <string name="breed_group">Breed group</string>
+    <string name="typical_temperament">Typical temperament</string>
+    <string name="typical_life_span">Typical life span</string>
+    <string name="typical_height">Typical height</string>
+    <string name="typical_weight">Typical weight</string>
 </resources>

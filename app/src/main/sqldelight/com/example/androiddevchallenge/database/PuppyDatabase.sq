@@ -1,0 +1,25 @@
+CREATE TABLE Puppy (
+    id TEXT PRIMARY KEY,
+    image_url TEXT NOT NULL,
+    name TEXT NOT NULL,
+    age_months INTEGER NOT NULL,
+    phone_number TEXT NOT NULL,
+    breed_name TEXT,
+    breed_group TEXT,
+    breed_temperament TEXT,
+    breed_life_span TEXT,
+    breed_height TEXT,
+    breed_weight TEXT
+);
+
+getAll:
+SELECT * FROM Puppy;
+
+getById:
+SELECT * FROM Puppy WHERE id=?;
+
+insert:
+INSERT INTO Puppy VALUES ?;
+
+clear:
+DELETE FROM Puppy;
