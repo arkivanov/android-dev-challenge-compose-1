@@ -1,4 +1,4 @@
-# Put title of your app here
+# Puppy For You!
 
 ![Workflow result](https://github.com/arkivanov/android-dev-challenge-compose-1/workflows/Check/badge.svg)
 
